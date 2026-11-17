@@ -6,8 +6,8 @@ import java.time.format.DateTimeFormatter;
  * Laboratorio 6 - Ejercicio 5
  * Tabla de Multiplicar con for y Manejo de Excepciones
  *
- * Autor: [Tu nombre aquí]
- * Fecha: [Fecha]
+ * Autor: [Dilan Gonzalez]
+ * Fecha: [16/11/26]
  */
 public class Ejercicio5 {
 
